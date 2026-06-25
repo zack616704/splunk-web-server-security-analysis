@@ -12,10 +12,6 @@ This project demonstrates SOC-analyst-level log analysis using Splunk Enterprise
 
 ## Dashboard
 
-![Dashboard Panel 1](screenshots/dashboard_1.png)
-![Dashboard Panel 2](screenshots/dashboard_2.png)
-![Dashboard Panel 3](screenshots/dashboard_3.png)
-
 The dashboard consists of 5 panels:
 - HTTP Status Code Distribution (Bar Chart)
 - Top 10 IP Addresses by Request Volume (Bar Chart)
